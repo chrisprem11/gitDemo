@@ -1,4 +1,4 @@
 This is a demo phrase for demo purposes. Specifically Git Demo.
 Added a random comment.
 
-Working on a new branch now named 'branchOne'.
+Working on a new branch now named 'branchTwo'.
