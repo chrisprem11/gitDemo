@@ -1,0 +1,9 @@
+#Demo Ignores
+*.csv
+
+#java class files
+*.class
+
+#generated files 
+bin/
+gen/
